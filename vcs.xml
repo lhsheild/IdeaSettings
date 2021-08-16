@@ -30,6 +30,10 @@
           <option name="url" value="http://113.16.255.12:40201" />
           <option name="userName" value="lhsheild" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://113.16.255.12:11027/Wuxiang/wuxiang-assistance-boot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\a7818\IdeaProjects" />
