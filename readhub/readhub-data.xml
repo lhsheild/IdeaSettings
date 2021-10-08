@@ -12,6 +12,16 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="id" value="8aahAeiWE7h" />
+                <option name="order" value="386079" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TOPIC" />
+                <option name="id" value="8a9IrHomu9i" />
+                <option name="order" value="386077" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TOPIC" />
                 <option name="id" value="8aap7j6XQf2" />
                 <option name="order" value="386073" />
               </RHBaseItem>
@@ -69,6 +79,11 @@
                 <option name="category" value="TOPIC" />
                 <option name="id" value="8a9xPvh5zjQ" />
                 <option name="order" value="386032" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TOPIC" />
+                <option name="id" value="8a9jvS18ChC" />
+                <option name="order" value="386031" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
@@ -12198,6 +12213,18 @@
               <RHBaseItem>
                 <option name="id" value="15474764" />
               </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="15475236" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="15475184" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="15475182" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="15475154" />
+              </RHBaseItem>
             </list>
           </value>
         </entry>
@@ -17111,6 +17138,10 @@
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
                 <option name="id" value="15468728" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="15475152" />
               </RHBaseItem>
             </list>
           </value>
@@ -23661,6 +23692,14 @@
               <RHBaseItem>
                 <option name="category" value="BLOCKCHAIN" />
                 <option name="id" value="15474053" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="15475217" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="15475218" />
               </RHBaseItem>
             </list>
           </value>
